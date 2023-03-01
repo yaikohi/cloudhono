@@ -1,8 +1,14 @@
+
+# Install the dependencies
 ```
-npm install
-npm run dev
+pnpm install
+```
+# Run a local development server
+```
+pnpm run dev
 ```
 
+# Deployment
 ```
-npm run deploy
+pnpm run deploy
 ```
